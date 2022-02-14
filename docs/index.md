@@ -1,6 +1,6 @@
 # Bienvenido a SiEd
 
-![](img/../../img/img_01.jpg)
+![](img/img_01.jpg)
 
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, id quos vitae consectetur modi ipsum iure veritatis quibusdam est voluptatum quaerat nam sint optio animi distinctio libero. Molestias, consequatur eos. Sed doloremque natus facilis dignissimos, distinctio veritatis illum libero quibusdam sunt eos iusto consequatur, soluta, aut qui. Aliquid adipisci incidunt perspiciatis possimus animi quia ratione magni sit neque ut sequi debitis inventore velit amet ducimus nisi laborum ullam iste rerum, aut maxime eos saepe fuga? Reiciendis ut dignissimos possimus sapiente? Unde voluptates sequi dignissimos nemo ipsum. Odio, nisi natus reprehenderit, error illum id exercitationem ipsum enim rerum numquam eos a!
 
@@ -20,5 +20,5 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit in beatae mag
 
 > "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae dolores totam et, rem perferendis expedita. Nesciunt magnam similique, nisi, porro delectus dignissimos asperiores dolore ducimus iure, eum quis blanditiis rem dolorum quas sunt molestiae et labore aliquid cumque possimus iste!"
 
-[Inicio rápido](docs/../empezar/instalacion.md){ .md-button }
+[Inicio rápido](docs/../pages/empezar/instalacion.md){ .md-button }
 

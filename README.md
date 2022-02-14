@@ -1,2 +1,0 @@
-# CodeDocumentation
-Code Documentation Template
