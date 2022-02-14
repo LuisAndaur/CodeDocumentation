@@ -1,0 +1,32 @@
+site_name: Documentation SiEd
+
+nav:
+    - Home: 'pages/index.md'
+    - Empezar:
+        - 'Instalación': 'pages/empezar/instalacion.md'
+        - 'Crear un proyecto': 'pages/empezar/crearProyecto.md'
+    - Recursos:
+        - 'Tutoriales': 'pages/recursos/tutoriales.md'
+        - 'Formación': 'pages/recursos/formacion.md'
+    - Extras:
+        - 'Extra 1': 'pages/extras/extra1.md'
+        - 'Extra 2': 'pages/extras/extra2.md'
+    - About: 'pages/about.md'
+
+
+theme:
+  name: material
+  language: es
+  logo: img/logo.png
+  favicon: img/favicon.ico
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - codehilite
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
