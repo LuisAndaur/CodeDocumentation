@@ -1,7 +1,7 @@
 site_name: Documentation SiEd
 
 nav:
-    - Home: 'pages/index.md'
+    - Home: 'index.md'
     - Empezar:
         - 'Instalación': 'pages/empezar/instalacion.md'
         - 'Crear un proyecto': 'pages/empezar/crearProyecto.md'
